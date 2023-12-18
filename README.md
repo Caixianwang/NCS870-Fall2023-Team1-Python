@@ -10,10 +10,6 @@ The NCS870-Fall2023-Team1 project consists of three sub-projects, which are: 1. 
 [NCS870-Fall2023-Team1-Python](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python)
 
 
-# NetAIOasis
-Advanced version of CyberDefense with real-time training, CI/CD
-
-
 ## Structure:
 
 ``` 
