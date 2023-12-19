@@ -12,8 +12,7 @@ The NCS870-Fall2023-Team1 project consists of three sub-projects, which are: 1. 
 
 # Architecture
 
-![image](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python/assets/129556780/2c82920d-cd53-4b74-afb5-42eab4468ce9)
-
+![image](https://github.com/Caixianwang/NCS870-Fall2023-Team1-Python/assets/129556780/04052371-be08-4f21-9997-a887d9a7d6a5)
 
 
 ## Structure:
